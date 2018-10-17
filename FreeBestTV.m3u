@@ -1,9 +1,4 @@
 #EXTM3U
-#EXTINF:-1,= Самообновляемый плейлист FreeBestTV SlyNet IPTV =
-http://live.slynet.tv/promoslynetiptv1?.m3u8
-#EXTINF:-1,== Последнее обновление 07.10.18 ==
-https://live.slynet.tv/promoslynetiptv2?.m3u8
-##EXTM3U
 #EXTINF:-1,112 Украина
 http://api.tv.ipnet.ua/api/v1/manifest/1442908080.m3u8?codec=mpeg4
 #EXTINF:-1,112 Украина
@@ -1070,44 +1065,6 @@ http://tvsever.ru:1936/live/apr2/playlist.m3u8
 rtmp://78.154.164.191:19350/Pulsar/forever
 #EXTINF:-1,РЖД ТВ HD
 http://hls.tva.cdnvideo.ru/tva/tvahd.sdp/playlist.m3u8
-#EXTINF:-1,Радио "Эхо Москвы" [RU] (Веб-камера)
-http://echolive.setevisor.tv/echomsk/echomsk_hq.stream/index.m3u8
-#EXTINF:-1,Радио 1 [RU] (Веб-камера)
-http://cdn.radio1.news:1935/rtvp/live/playlist.m3u8
-#EXTINF:-1,Радио 10 [Черновцы] (Веб-камера)
-http://langate.tv/acc/tracks-v1/index.m3u8
-#EXTINF:-1,Радио DFM [RU] (Веб-камера)
-http://dfmvideo.gcdn.co/streams/1410_651/720n/index.m3u8
-#EXTINF:-1,Радио NRJ [UA] (Веб-камера)
-http://rtmp.radiogroup.com.ua:8080/live/nrj/index.m3u8
-#EXTINF:-1,Радио Армия FM [UA] (Веб-камера)
-http://212.26.129.4/hls/armyfm.m3u8
-#EXTINF:-1,Радио Вести FM [RU] (Веб-камера)
-http://cdnmg.secure.live.rtr-vesti.ru/vgtrkrtmp/rtmp_vestifm_480/chunklist_b1600000.m3u8
-#EXTINF:-1,Радио Говорит Москва [RU] (Веб-камера)
-http://video.govoritmoskva.ru:8080/live/rufmbk-1/index.m3u8
-#EXTINF:-1,Радио Голос Столицы [UA] (Веб-камера)
-http://rtmp.radiogroup.com.ua:8080/live/gs/index.m3u8
-#EXTINF:-1,Радио Европа Плюс [RU] (Веб-камера)
-http://live-emg.cdnvideo.ru/emg/smil:emg.smil/chunklist_b1660000.m3u8
-#EXTINF:-1,Радио Люкс FM [UA] (Веб-камера)
-http://stream1.luxnet.ua/luxstudio/smil:luxstudio.stream.smil/chunklist_b4564000.m3u8
-#EXTINF:-1,Радио Макс FM [Сочи] (Веб-камера)
-http://live.maksmedia.cdnvideo.ru/maksmedia/maksfm2.sdp/playlist.m3u8
-#EXTINF:-1,Радио Маяк [RU] (Веб-камера)
-http://cdnmg.secure.live.rtr-vesti.ru/live/smil:mayak.smil/chunklist_b1600000.m3u8
-#EXTINF:-1,Радио Пятница [UA] (Веб-камера)
-http://rtmp.radiogroup.com.ua:8080/live/pt/index.m3u8
-#EXTINF:-1,Радио Ретро FM [UA] (Веб-камера)
-http://rtmp.radiogroup.com.ua:8080/live/retro/index.m3u8
-#EXTINF:-1,Радио Страна FM ТВ
-http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
-#EXTINF:-1,Радио Тиса FM [Ужгород] (Веб-камера)
-rtmp://rtmp.turmedia.tv/live/tisafm
-#EXTINF:-1,Радио Хит ТВ (Орск) [HD] +2
-http://hithd.camsh.orsk.ru/hls/hithd.m3u8
-#EXTINF:-1,Радио Шансон ТВ [HD]
-http://chanson-video.hostingradio.ru:8080/hls/chansonabr/live_hiq/index.m3u8
 #EXTINF:-1,Ратник HD
 http://live-ratnik.cdnvideo.ru/ratnik/ratnik.sdp/playlist.m3u8
 #EXTINF:-1,Регион 29 (Архангельск)
@@ -1284,13 +1241,3 @@ http://urgan.vintera.tv:8081/urgan/urganhd/playlist.m3u8
 http://46.175.163.130/vod/9/index.m3u8
 #EXTINF:-1,Ямал-Регион (Салехард) +2
 http://live-yamalregion.cdnvideo.ru/yamalregion/yamalregion.sdp/playlist.m3u8
-#EXTINF:-1,=== ИНФОРМАЦИЯ ===
-http://live.slynet.tv/promoslynetiptv1?.m3u8
-#EXTINF:-1,= Наша группа ВКонтакте http://vk.com/clubSlyNet
-http://live.slynet.tv/promoslynetiptv1?.m3u8
-#EXTINF:-1,== http://vk.com/clubSlyNet
-http://live.slynet.tv/promoslynetiptv1?.m3u8
-#EXTINF:-1,= Наш сайт http://slynet.tv
-http://live.slynet.tv/promoslynetiptv1?.m3u8
-#EXTINF:-1,== http://slynet.tv
-http://live.slynet.tv/promoslynetiptv1?.m3u8
